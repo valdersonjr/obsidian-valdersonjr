@@ -11,10 +11,14 @@
             "id": "a27917066f0871b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pessoais/aprendizados/aws/AWS - Infraestrutura global.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "AWS - Infraestrutura global"
             }
           }
         ]
@@ -175,31 +179,41 @@
   },
   "active": "a27917066f0871b9",
   "lastOpenFiles": [
+    "pessoais/aprendizados/aws/AWS - Como funciona.md",
+    "pessoais/aprendizados/aws/AWS Organizations.md",
+    "pessoais/aprendizados/aws/AWS - Mapa.md",
+    "pessoais/aprendizados/aws/AWS - Infraestrutura global.md",
     "pessoais/aprendizados/Metodologia - Zettelkasten.md",
+    "pessoais/aprendizados/aws/AWS Systems Manager (SSM).md",
+    "pessoais/aprendizados/aws/AWS CDK.md",
+    "pessoais/aprendizados/aws/AWS CloudFormation.md",
+    "pessoais/aprendizados/aws/AWS CloudTrail.md",
+    "pessoais/aprendizados/aws/AWS CloudWatch.md",
+    "pessoais/aprendizados/aws/AWS API Gateway.md",
+    "pessoais/aprendizados/aws/AWS Step Functions.md",
+    "pessoais/aprendizados/aws/AWS EventBridge.md",
+    "pessoais/aprendizados/aws/AWS SNS.md",
+    "pessoais/aprendizados/aws/AWS SQS.md",
+    "pessoais/aprendizados/aws/AWS DynamoDB.md",
+    "pessoais/aprendizados/aws/AWS RDS.md",
+    "pessoais/aprendizados/aws/AWS EKS.md",
+    "pessoais/aprendizados/aws/AWS ECR.md",
+    "pessoais/aprendizados/aws/AWS ECS.md",
+    "pessoais/aprendizados/aws/AWS EFS.md",
+    "pessoais/aprendizados/aws/AWS EBS.md",
+    "pessoais/aprendizados/aws/AWS Route 53.md",
+    "pessoais/aprendizados/aws/AWS CloudFront.md",
+    "pessoais/aprendizados/aws/AWS S3.md",
+    "pessoais/aprendizados/aws/AWS Lambda.md",
+    "pessoais/aprendizados/aws",
     "pessoais/aprendizados",
-    "Metodologia - Zettelkasten.md",
-    "README.md",
     "pessoais",
     "trabalho",
-    "Referencias/Exemplo - Como Tomar Notas Inteligentes.md",
-    "Zettels/Exemplo - Como Funciona.md",
     "Inbox",
     "Referencias",
     "Zettels",
-    "Templates/Referencia.md",
-    "Templates/Zettel.md",
     "Templates",
-    "Testing.md",
-    "INDEX.md",
     "03-Permanent/Pensamentos",
-    "03-Permanent/Educacao",
-    "03-Permanent/Filosofia",
-    "04-MOCs/MOC - Pensamentos.md",
-    "04-MOCs/MOC - Educação.md",
-    "04-MOCs/MOC - Filosofia.md",
-    "04-MOCs/MOC - Tecnologia.md",
-    "Templates/Template - MOC.md",
-    "Templates/Template - Nota de Literatura.md",
-    "Templates/Template - Nota Permanente.md"
+    "03-Permanent/Educacao"
   ]
 }

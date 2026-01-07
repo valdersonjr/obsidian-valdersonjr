@@ -1,4 +1,4 @@
-# Vault de anotações (Obsidian)
+# Caderno de anotações
 
 ## Estrutura
 
