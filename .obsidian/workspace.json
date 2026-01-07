@@ -11,14 +11,10 @@
             "id": "a27917066f0871b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "New tab"
             }
           }
         ]
@@ -179,6 +175,31 @@
   },
   "active": "a27917066f0871b9",
   "lastOpenFiles": [
-    "Welcome.md"
+    "pessoais/aprendizados/Metodologia - Zettelkasten.md",
+    "pessoais/aprendizados",
+    "Metodologia - Zettelkasten.md",
+    "README.md",
+    "pessoais",
+    "trabalho",
+    "Referencias/Exemplo - Como Tomar Notas Inteligentes.md",
+    "Zettels/Exemplo - Como Funciona.md",
+    "Inbox",
+    "Referencias",
+    "Zettels",
+    "Templates/Referencia.md",
+    "Templates/Zettel.md",
+    "Templates",
+    "Testing.md",
+    "INDEX.md",
+    "03-Permanent/Pensamentos",
+    "03-Permanent/Educacao",
+    "03-Permanent/Filosofia",
+    "04-MOCs/MOC - Pensamentos.md",
+    "04-MOCs/MOC - Educação.md",
+    "04-MOCs/MOC - Filosofia.md",
+    "04-MOCs/MOC - Tecnologia.md",
+    "Templates/Template - MOC.md",
+    "Templates/Template - Nota de Literatura.md",
+    "Templates/Template - Nota Permanente.md"
   ]
 }
